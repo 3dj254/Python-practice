@@ -13,3 +13,5 @@ def division (x, y):
 def exponetation (x,y):
     return x^y
 
+def checkIfANumberIsEven(x):
+    return x % 0
